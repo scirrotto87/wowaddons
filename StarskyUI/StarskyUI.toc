@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: StarskyUI
+## Notes: Native-first settings, character profiles, diagnostics, and an addon-frame editor for WoW Forever.
+## Version: 0.1.1
+## DefaultState: disabled
+## SavedVariables: StarskyUIDB
+
+Core\API.lua
+Core\Profiles.lua
+Core\Diagnostics.lua
+UI\Widgets.lua
+UI\Editor.lua
+UI\Panel.lua
+Core\App.lua
